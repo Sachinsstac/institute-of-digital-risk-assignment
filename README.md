@@ -28,13 +28,21 @@ The logo uses a **cube-inspired geometric structure** to represent digital syste
 ![Homepage](/Shots/image.png)
 
 
-### Services Section
+### About IDR
 
-![Services Screenshot](screenshots/services.png)
+![About IDR](/Shots/About.png)
 
-### Contact Section
+### IDR Pillars
 
-![Contact Screenshot](screenshots/contact.png)
+![IDR Pillars](/Shots/Our%20Pillars.png)
+
+### IDR Community
+
+![IDR Community](/Shots/Our%20Community.png)
+
+### Let's Connect
+
+![Contact](/Shots/Contact.png)
 
 ---
 
