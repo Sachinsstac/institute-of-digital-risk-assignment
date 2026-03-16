@@ -25,7 +25,7 @@ The logo uses a **cube-inspired geometric structure** to represent digital syste
 ## Website Preview
 
 ### Homepage
-![Homepage](/Shots/image.png)
+![Homepage](/Shots/Home.png)
 
 
 ### About IDR
