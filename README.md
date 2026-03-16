@@ -25,8 +25,8 @@ The logo uses a **cube-inspired geometric structure** to represent digital syste
 ## Website Preview
 
 ### Homepage
+!(/Shots/image.png)
 
-![Homepage Screenshot](![alt text](image.png))
 
 ### Services Section
 
