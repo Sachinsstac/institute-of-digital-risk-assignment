@@ -10,11 +10,11 @@ The goal was to design a professional brand identity and build a responsive home
 
 ### Logo Variant 1 – Icon + Text
 
-![IDR Logo Full](logos/idr-logo-full.png)
+![IDR Logo Full](/logos/idr-logo-full.png.png)
 
 ### Logo Variant 2 – Icon Only
 
-![IDR Logo Icon](logos/idr-logo-icon.png)
+![IDR Logo Icon](/logos/idr-logo-icon.png.png)
 
 ### Logo Design Explanation
 
